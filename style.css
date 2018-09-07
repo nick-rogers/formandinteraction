@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	background-color: white;
+	overflow-x: hidden;
 }
 
 .main {
@@ -118,7 +119,7 @@ h2 {
 	padding-top: 35px;
 	padding-bottom: 30px;
 	padding-left: 58px;
-	border-color: black;
+	border-color: #c1c1c1;
 	border-width: 0px 0px 1.5px 0px;
 	border-style: dashed;
 }
@@ -144,6 +145,7 @@ h2 {
 	font-size: 16px;
 	height: 30px;
 	margin-top: 0px;
+	font-weight: normal;
 }
 
 .t-link {
@@ -177,6 +179,39 @@ h2 {
 	margin-top: 30px;
 }
 
+.link3 {
+	display: block;
+	cursor: pointer;
+	width: 300px;
+	height: 140px;
+	background-image: url(brutalism.png);
+	background-size: 100% 100%;
+	margin-top: 30px;
+}
+
+.link4 {
+	display: block;
+	cursor: pointer;
+	width: 300px;
+	height: 180px;
+	background-image: url(emigre.png);
+	background-size: 100% 100%;
+	margin-top: 30px;
+}
+
+
+.link5 {
+	display: block;
+	cursor: pointer;
+	width: 300px;
+	height: 140px;
+	background-image: url(mapper.png);
+	background-size: 100% 100%;
+	margin-top: 30px;
+}
+
+
+
 .img1 {
 	display: block;
 	width: 300px;
@@ -196,7 +231,20 @@ h2 {
 	font-family: sans-serif;
 }
 
+.date-bar {
+	height: 50px;
+	width: 110%;
+	float: left;
+	margin-top: 50px;
+	border-style: solid;
+	border-width: 0px 0px 1.5px 0px;
+	border-color: black;
+}
 
+.body-date {
+	font-family: monospace;
+	margin-left: 4.5vw;
+}
 
 
 
