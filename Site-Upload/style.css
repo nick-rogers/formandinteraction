@@ -211,6 +211,28 @@ h2 {
 }
 
 
+.link6 {
+	display: block;
+	cursor: pointer;
+	width: 260px;
+	height: 140px;
+	background-image: url(Solution-Seeker.png);
+	background-size: 100% 100%;
+	margin-top: 30px;
+}
+
+
+.link7 {
+	display: block;
+	cursor: pointer;
+	width: 260px;
+	height: 140px;
+	background-image: url(Yves.png);
+	background-size: 100% 100%;
+	margin-top: 30px;
+}
+
+
 
 .img1 {
 	display: block;
@@ -220,6 +242,29 @@ h2 {
 	background-size: 100% 100%;
 	margin-top: 30px;
 }
+
+.img2 {
+	display: block;
+	width: 300px;
+	height: 500px;
+	background-image: url(newspaper-clip.png);
+	background-size: 100% 100%;
+	margin-top: 30px;
+}
+
+.img3 {
+	display: block;
+	width: 400px;
+	height: 230px;
+	background-image: url(forest-park.jpg);
+	background-size: 100% 100%;
+	margin-top: 30px;
+}
+
+
+
+
+
 
 .q {
 	font-size: 40px;
