@@ -22,6 +22,26 @@ body {
 	z-index: 50;
 }
 
+.hop {
+	display: block;
+	width: 100vw;
+	height: 1px;
+	background-color: blue;
+	position: absolute;
+}
+
+#hop1 {
+	margin-top: -150px;
+}
+
+#hop2 {
+	margin-top: 2480px;
+}
+
+#hop3 {
+	margin-top: 4930px;
+}
+
 .title {
 	display: block;
 	font-weight: bold;
@@ -58,6 +78,8 @@ body {
 	font-size: 20px;
 	text-align: center;
 	cursor: pointer;
+	text-decoration: none;
+	color: black;
 }
 
 .date:hover {
