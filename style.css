@@ -26,7 +26,6 @@ body {
 	display: block;
 	width: 100vw;
 	height: 1px;
-	background-color: blue;
 	position: absolute;
 }
 
@@ -35,11 +34,11 @@ body {
 }
 
 #hop2 {
-	margin-top: 2480px;
+	margin-top: 2405px;
 }
 
 #hop3 {
-	margin-top: 4930px;
+	margin-top: 4720px;
 }
 
 .title {
